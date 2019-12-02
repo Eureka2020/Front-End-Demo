@@ -5,7 +5,7 @@
 - 利用v-bind动态绑定class，利用activeIndex记录被点击项的下标，默认是第一项；
 - 利用@click绑定点击事件，传入的参数是被点击项的index值，用以改变被点击项的颜色。
 ### Demo展示
-* [changeColor](https://eureka2020.github.io/Front-End-Demo/VueDemo/changeColor.html)<br>
+* [changeColor](https://eureka2020.github.io/Front-End-Demo/VueDemo/01-changeColor.html)<br>
 ### 代码实现
 ```Javascript
 <!DOCTYPE html>
